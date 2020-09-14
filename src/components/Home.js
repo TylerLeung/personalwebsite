@@ -4,7 +4,7 @@ const Home = () => {
     return(
         <div className="container">
             <h4 className="center">Home</h4>
-            <p>POGGERS</p>
+            <p> Test Change After Initial Deploy</p>
         </div>
     )
 }
